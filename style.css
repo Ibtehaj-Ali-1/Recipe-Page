@@ -177,6 +177,7 @@ hr {
 
   .container {
     margin: 0;
+    border-radius: 0;
   }
 
   .container .recipe-img {
